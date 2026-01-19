@@ -1,0 +1,22 @@
+{
+    "name": "@repo/eslint-config",
+    "version": "0.0.0",
+    "private": true,
+    "files": [
+        "library.js",
+        "react.js",
+        "next.js"
+    ],
+    "devDependencies": {
+        "eslint": "^9.0.0",
+        "globals": "^15.0.0",
+        "@eslint/js": "^9.0.0",
+        "typescript-eslint": "^8.0.0",
+        "eslint-plugin-react": "^7.33.0",
+        "eslint-plugin-react-hooks": "^5.1.0",
+        "eslint-plugin-react-refresh": "^0.4.0"
+    },
+    "peerDependencies": {
+        "eslint": "^9.0.0"
+    }
+}
